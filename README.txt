@@ -4,8 +4,9 @@ js.css3mediaqueries
 Introduction
 ============
 
-This library packages `css3-mediaqueries.js`_ for `fanstatic`_. It is aware
-of different modes (normal, minified).
+This library packages `css3-mediaqueries.js`_ for `fanstatic`_. It will
+render with a conditional comment to address Internet Explorer 8 and
+below.
 
 .. _`fanstatic`: http://fanstatic.org
 .. _`css3-mediaqueries.js`: https://github.com/livingston/css3-mediaqueries-js
