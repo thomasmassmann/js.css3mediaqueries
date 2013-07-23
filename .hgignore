@@ -1,0 +1,10 @@
+syntax: glob
+
+bin
+develop-eggs
+dist
+eggs
+parts
+.installed.cfg
+*.egg-info
+*.pyc
